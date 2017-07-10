@@ -1,21 +1,21 @@
 {
   "name": "escher-auth",
   "description": "Library for HTTP request signing (JavaScript implementation)",
-  "version": "0.3.0",
-  "homepage": "https://github.com/emartech/escher-js",
+  "version": "0.3.0.a",
+  "homepage": "https://github.com/babo/escher-js",
   "author": {
     "name": "Emarsys Technologies"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/emartech/escher-js.git"
+    "url": "https://github.com/babo/escher-js.git"
   },
   "bugs": {
-    "url": "https://github.com/emartech/escher-js/issues"
+    "url": "https://github.com/babo/escher-js/issues"
   },
   "licenses": {
     "type": "MIT",
-    "url": "https://github.com/emartech/escher-js/blob/master/LICENSE"
+    "url": "https://github.com/babo/escher-js/blob/master/LICENSE"
   },
   "main": "lib/escher",
   "engines": {
